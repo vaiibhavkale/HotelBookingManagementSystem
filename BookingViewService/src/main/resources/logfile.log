@@ -1,0 +1,11 @@
+2023-07-02 17:47:01.119  INFO 20860 --- [restartedMain] com.cg.BookingViewServiceApplication     : No active profile set, falling back to default profiles: default
+2023-07-02 17:47:02.190  WARN 20860 --- [restartedMain] o.s.boot.actuate.endpoint.EndpointId     : Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-07-02 17:47:03.265  WARN 20860 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-07-02 17:47:03.667  WARN 20860 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-07-02 17:47:04.056  WARN 20860 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-07-02 17:47:04.465  WARN 20860 --- [restartedMain] ockingLoadBalancerClientRibbonWarnLogger : You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2023-07-02 17:47:05.541  INFO 20860 --- [restartedMain] com.cg.BookingViewServiceApplication     : Started BookingViewServiceApplication in 6.039 seconds (JVM running for 6.668)
+2023-07-02 22:24:33.583  INFO 20860 --- [http-nio-8031-exec-1] com.cg.util.BookingController            : Inside findAllBookings() method 0f BookingController
+2023-07-02 22:24:44.845  INFO 20860 --- [http-nio-8031-exec-2] com.cg.util.BookingController            : Inside findBookingsByHotel() method of BookingController
+2023-07-02 22:25:17.213  INFO 20860 --- [http-nio-8031-exec-3] com.cg.util.BookingController            : Inside findAllBookings() method 0f BookingController
+2023-07-02 22:25:20.375  WARN 20860 --- [http-nio-8031-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]

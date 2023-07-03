@@ -1,0 +1,60 @@
+2023-07-02 14:35:51.350  INFO 15380 --- [restartedMain] com.cg.HotelServiceApplication           : No active profile set, falling back to default profiles: default
+2023-07-02 14:35:52.306  WARN 15380 --- [restartedMain] o.s.boot.actuate.endpoint.EndpointId     : Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-07-02 14:35:53.269  WARN 15380 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-07-02 14:35:53.661  WARN 15380 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-07-02 14:35:54.034  WARN 15380 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-07-02 14:35:54.445  WARN 15380 --- [restartedMain] ockingLoadBalancerClientRibbonWarnLogger : You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2023-07-02 14:35:55.344  INFO 15380 --- [restartedMain] com.cg.HotelServiceApplication           : Started HotelServiceApplication in 5.447 seconds (JVM running for 6.036)
+2023-07-02 14:45:44.412  INFO 15380 --- [http-nio-8021-exec-1] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:45:45.150  INFO 15380 --- [http-nio-8021-exec-2] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:46:38.454  INFO 15380 --- [http-nio-8021-exec-3] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:46:38.498  INFO 15380 --- [http-nio-8021-exec-4] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:46:54.913  INFO 15380 --- [http-nio-8021-exec-5] c.cg.hotel.util.HotelServiceController   : Inside findByCity() method of HotelServiceController
+2023-07-02 14:47:03.097  INFO 15380 --- [http-nio-8021-exec-6] c.cg.hotel.util.HotelServiceController   : Inside findByCity() method of HotelServiceController
+2023-07-02 14:47:07.621  INFO 15380 --- [http-nio-8021-exec-7] c.cg.hotel.util.HotelServiceController   : Inside findByCity() method of HotelServiceController
+2023-07-02 14:47:15.085  INFO 15380 --- [http-nio-8021-exec-8] c.cg.hotel.util.HotelServiceController   : Inside findByCity() method of HotelServiceController
+2023-07-02 14:47:30.286  INFO 15380 --- [http-nio-8021-exec-9] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:47:50.745  INFO 15380 --- [http-nio-8021-exec-1] c.cg.hotel.util.HotelServiceController   : Inside findByCity() method of HotelServiceController
+2023-07-02 14:48:26.226  INFO 15380 --- [http-nio-8021-exec-2] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:48:26.245  INFO 15380 --- [http-nio-8021-exec-3] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:48:35.174  INFO 15380 --- [http-nio-8021-exec-4] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:48:35.191  INFO 15380 --- [http-nio-8021-exec-5] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:49:17.417  INFO 15380 --- [http-nio-8021-exec-6] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:49:17.439  INFO 15380 --- [http-nio-8021-exec-7] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:49:29.761  INFO 15380 --- [http-nio-8021-exec-8] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 14:49:45.705  INFO 15380 --- [http-nio-8021-exec-9] c.cg.hotel.util.HotelServiceController   : Inside findByCity() method of HotelServiceController
+2023-07-02 14:49:45.724  INFO 15380 --- [http-nio-8021-exec-10] c.cg.hotel.util.HotelServiceController   : Inside findByCity() method of HotelServiceController
+2023-07-02 14:49:55.445  INFO 15380 --- [http-nio-8021-exec-1] c.cg.hotel.util.HotelServiceController   : Inside findByRating() method of HotelServiceController
+2023-07-02 14:49:55.464  INFO 15380 --- [http-nio-8021-exec-2] c.cg.hotel.util.HotelServiceController   : Inside findByRating() method of HotelServiceController
+2023-07-02 17:32:45.845  INFO 15380 --- [http-nio-8021-exec-5] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:32:45.887  INFO 15380 --- [http-nio-8021-exec-6] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:33:56.337  INFO 15380 --- [http-nio-8021-exec-9] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:33:56.356  INFO 15380 --- [http-nio-8021-exec-10] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:45:35.208  INFO 15380 --- [http-nio-8021-exec-3] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:45:54.914  INFO 15380 --- [http-nio-8021-exec-4] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:45:54.933  INFO 15380 --- [http-nio-8021-exec-5] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:46:19.263  INFO 15380 --- [http-nio-8021-exec-6] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:47:13.960  INFO 15380 --- [http-nio-8021-exec-7] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:47:13.978  INFO 15380 --- [http-nio-8021-exec-9] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:50:56.623  INFO 15380 --- [http-nio-8021-exec-2] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:50:56.642  INFO 15380 --- [http-nio-8021-exec-3] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:51:39.985  INFO 15380 --- [http-nio-8021-exec-4] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:51:40.003  INFO 15380 --- [http-nio-8021-exec-5] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:53:53.858  INFO 15380 --- [http-nio-8021-exec-7] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 17:53:53.897  INFO 15380 --- [http-nio-8021-exec-9] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 19:58:09.015  INFO 15380 --- [http-nio-8021-exec-2] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 19:58:10.005  INFO 15380 --- [http-nio-8021-exec-3] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 19:58:10.022  INFO 15380 --- [http-nio-8021-exec-4] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:23:56.046  INFO 15380 --- [http-nio-8021-exec-6] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:24:23.816  INFO 15380 --- [http-nio-8021-exec-7] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:24:23.836  INFO 15380 --- [http-nio-8021-exec-9] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:24:41.120  INFO 15380 --- [http-nio-8021-exec-10] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:24:41.134  INFO 15380 --- [http-nio-8021-exec-1] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:25:13.259  INFO 15380 --- [http-nio-8021-exec-2] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:25:13.281  INFO 15380 --- [http-nio-8021-exec-3] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:25:28.722  INFO 15380 --- [http-nio-8021-exec-4] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:25:28.738  INFO 15380 --- [http-nio-8021-exec-5] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:25:33.456  INFO 15380 --- [http-nio-8021-exec-8] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:25:33.469  INFO 15380 --- [http-nio-8021-exec-6] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:25:49.054  INFO 15380 --- [http-nio-8021-exec-7] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController
+2023-07-02 22:25:49.071  INFO 15380 --- [http-nio-8021-exec-9] c.cg.hotel.util.HotelServiceController   : Inside findALl() method of HotelServiceController

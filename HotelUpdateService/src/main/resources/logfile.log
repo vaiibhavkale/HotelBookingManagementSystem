@@ -1,0 +1,10 @@
+2023-07-02 14:35:36.722  INFO 34924 --- [restartedMain] com.cg.HotelUpdateServiceApplication     : No active profile set, falling back to default profiles: default
+2023-07-02 14:35:37.738  WARN 34924 --- [restartedMain] o.s.boot.actuate.endpoint.EndpointId     : Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2023-07-02 14:35:38.739  WARN 34924 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-07-02 14:35:39.153  WARN 34924 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-07-02 14:35:39.588  WARN 34924 --- [restartedMain] c.n.c.sources.URLConfigurationSource     : No URLs will be polled as dynamic configuration sources.
+2023-07-02 14:35:40.045  WARN 34924 --- [restartedMain] ockingLoadBalancerClientRibbonWarnLogger : You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2023-07-02 14:35:41.055  INFO 34924 --- [restartedMain] com.cg.HotelUpdateServiceApplication     : Started HotelUpdateServiceApplication in 5.784 seconds (JVM running for 6.392)
+2023-07-02 14:46:37.351  INFO 34924 --- [http-nio-8022-exec-2] c.cg.hotel.util.HotelServiceController   : Inside createHotel() method of HotelServiceController
+2023-07-02 14:48:25.028  INFO 34924 --- [http-nio-8022-exec-4] c.cg.hotel.util.HotelServiceController   : Inside createHotel() method of HotelServiceController
+2023-07-02 14:49:16.080  INFO 34924 --- [http-nio-8022-exec-5] c.cg.hotel.util.HotelServiceController   : Inside createHotel() method of HotelServiceController

@@ -42,7 +42,7 @@ public class UserUpdateServiceApplication {
                  "API CREATION",
                  "2.0",
                  "Free to Use",
-                 new Contact("Mohit Murotiya","www.hbms.com" ,"mm@xyz.com"),
+                 new Contact("Vaibhav Kale","www.hbms.com" ,"vaiibhavkale@gmail.com"),
                  "API licence",
                  "API License URL",
                  Collections.emptyList());

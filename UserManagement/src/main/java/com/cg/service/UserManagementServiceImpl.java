@@ -54,7 +54,7 @@ public class UserManagementServiceImpl implements UserManagementService {
 	@Override
 	public void updateLoginDetails(LoginModel user) {
 		System.out.println("Inside updateLoginDetails() method of UserManagementServiceImpl");
-		// loginrepos.deleteByUsername(user.getUsername());
+		//loginrepos.deleteByUsername(user.getUsername());
 		//loginrepos.deleteById(user.getId());
 		loginrepos.save(user);
 	}
